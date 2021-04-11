@@ -12,7 +12,7 @@ export const AUTHORS= [
         {
           id:1,
           name: "Prince Dahn",
-          image: "./profile.jpg",
+          image: "./jay.jpeg",
           title: "Senior Networker and Founder",
           Class: "Senior",
           Servicepr: "1100.99",
@@ -24,7 +24,7 @@ export const AUTHORS= [
         {
           id:2,
           name: "Stanley Garyeazohn",
-          image: "./profile.jpg",
+          image: "./stanley.jpeg",
           title: "Senior Graphic Designer",
           Class: "Senior",
           Servicepr: "1100.99",
@@ -34,7 +34,7 @@ export const AUTHORS= [
         {
           id:3,
           name: "Adonis G.",
-          image: "./profile.jpg",
+          image: "./adonis_1.webp",
           title: "Senior Networker and Co-Founded",
           Class: "Senior",
           Servicepr: "1100.99",

@@ -2,9 +2,6 @@ import React, {Component} from 'react';
 import {Card, CardImg, CardImgOverlay, CardText, CardBody, CardTitle} from 'reactstrap';
 import {Media} from 'reactstrap';
 import profile from './profile.jpg';
-import stanley from './stanley.jpeg';
-import jay from './jay.jpeg';
-import adonis_1 from './adonis_1.webp';
 
 class Menu extends Component{
   
